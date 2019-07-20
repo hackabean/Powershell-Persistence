@@ -7,3 +7,15 @@ Author: Testing Pens
 
 Source: https://github.com/TestingPens/MalwarePersistenceScripts
 
+Name  : COM Object hijacking persistence
+
+Author: 3GStudent
+
+Source: https://github.com/3gstudent/COM-Object-hijacking
+
+Name  : Microsoft Office Persistence
+
+Author: 3GStudent
+
+Source: https://github.com/3gstudent/Office-Persistence
+
