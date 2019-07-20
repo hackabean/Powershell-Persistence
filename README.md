@@ -1,7 +1,7 @@
 # Powershell-Persistence
 List of powershell persistence methods, all in one place. Not found in Powershell Empire.
 
-Name  : User even persistence
+Name  : User event persistence
 
 Author: Testing Pens
 
