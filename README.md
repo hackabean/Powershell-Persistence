@@ -19,3 +19,8 @@ Author: 3GStudent
 
 Source: https://github.com/3gstudent/Office-Persistence
 
+Name : Waitfor persistence
+
+Author: 3GStudent
+
+Source: https://github.com/3gstudent/Waitfor-Persistence
